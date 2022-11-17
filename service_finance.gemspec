@@ -5,8 +5,8 @@ require_relative "lib/service_finance/version"
 Gem::Specification.new do |spec|
   spec.name          = "service_finance"
   spec.version       = ServiceFinance::VERSION
-  spec.authors       = ["leandro.silva"]
-  spec.email         = ["leandro.silva@roit.com.br"]
+  spec.authors       = ["Leandro - "]
+  spec.email         = ["healerpunkprist@gmail.com lesilvajunior@hotmail.com"]
 
   spec.summary       = "TODO: Write a short summary, because RubyGems requires one."
   spec.description   = "TODO: Write a longer description or delete this line."
@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
-  spec.metadata["homepage_uri"] = spec.homepage
+  spec.metadata["homepage_uri"] = "https://github.com/leandroKachu"
   spec.metadata["source_code_uri"] = "TODO: Put your gem's public repo URL here."
   spec.metadata["changelog_uri"] = "TODO: Put your gem's CHANGELOG.md URL here."
 
